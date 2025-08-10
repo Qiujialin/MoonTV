@@ -97,10 +97,6 @@
       "api": "https://hhzyapi.com/api.php/provide/vod",
       "name": "豪华资源"
     },
-    "jkunzy": {
-      "api": "https://www.jkunzyapi.com/api.php/provide/vod",
-      "name": "Jkun资源"
-    },
     "jingyingzy": {
       "api": "https://jyzyapi.com/api.php/provide/vod",
       "name": "金鹰资源"
